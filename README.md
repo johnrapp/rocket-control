@@ -21,3 +21,10 @@ It can even do *hard* landings
 The wind and air resistance can be used for advanced techniques like air braking
 
 <img src="videos/air_resistance.gif" alt="Seriously do" width="400"/>
+
+## Acknowledgements
+- John's mom for providing us with a boat to program on
+- Chat GPT for basically writing the entire thing
+- John Rapp Farnes & Simon Halvdansson for their amazing contributions
+- Norwegian oil for providing academic licence to Gurobi
+- @Vista Wei at unsplash for the sick ass image
